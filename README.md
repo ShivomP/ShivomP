@@ -7,7 +7,7 @@ I'm an aspiring Frontend Developer. Building aesthetic, personalized, and respon
 *   🖥️  See my portfolio at [shivompaudel.com](http://https://www.shivompaudel.com/)
 *   ✉️  You can contact me at [shivompaudel@icloud.com](mailto:shivompaudel@icloud.com)
 
-### Skills 
+Skills 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -22,6 +22,6 @@ I'm an aspiring Frontend Developer. Building aesthetic, personalized, and respon
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
 
-### Socials
+Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/shivom-paudel-309792251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
