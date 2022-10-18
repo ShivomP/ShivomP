@@ -1,4 +1,4 @@
-Hi 👋 My name is Shivom Paudel
+Hi my name is Shivom Paudel
 ==============================
 
 I'm an aspiring Frontend Developer. Building aesthetic, personalized, and responsive user experiences is my passion.
