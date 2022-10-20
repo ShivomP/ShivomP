@@ -4,7 +4,7 @@ Hi my name is Shivom Paudel
 I'm an aspiring Frontend Developer. Building aesthetic, personalized, and responsive user experiences is my passion.
 
 *   🌍  I'm based in Champaign, IL
-*   🖥️  See my portfolio at [shivompaudel.com](http://https://www.shivompaudel.com/)
+*   🖥️  See my portfolio at [shivompaudel.com](https://www.shivompaudel.com/)
 *   ✉️  You can contact me at [shivompaudel@icloud.com](mailto:shivompaudel@icloud.com)
 
 Skills 
