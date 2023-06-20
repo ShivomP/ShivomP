@@ -1,7 +1,12 @@
 Hi my name is Shivom Paudel
 ==============================
 
-I'm an aspiring Frontend Developer. Building aesthetic, personalized, and responsive user experiences is my passion.
+As a Front End Engineer, I am dedicated to designing aesthetic, personalized, and responsive user
+experiences that drive business objectives. With a focus on problem-solving and attention to detail, I
+strive to turn ideas into innovative products that exceed user expectations. I am committed to
+continuous learning and staying up-to-date with the latest technologies and frameworks to deliver
+the best possible solutions.
+
 
 *   🌍  I'm based in Champaign, IL
 *   🖥️  See my portfolio at [shivompaudel.com](https://www.shivompaudel.com/)
