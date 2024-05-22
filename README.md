@@ -1,7 +1,7 @@
 Hi my name is Shivom Paudel
 ==============================
 
-As a Software Engineer, I am dedicated to crafting efficient, scalable, and user-centric solutions that align with business objectives. With a strong focus on problem-solving and meticulous attention to detail, my goal is to transform concepts into cutting-edge products that surpass user expectations. I am committed to continuous learning and keeping up with the latest technologies and frameworks.
+Experienced computer science student interested in crafting efficient, scalable, and user-centric solutions.. With a strong focus on problem-solving and meticulous attention to detail, my goal is to transform concepts into cutting-edge products. I am committed to keeping up with the latest technologies and frameworks.
 
 
 *   🌍  I'm based in Tucson, IL
