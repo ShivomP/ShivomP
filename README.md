@@ -1,7 +1,7 @@
 Hi my name is Shivom Paudel
 ==============================
 
-Experienced computer science student interested in crafting efficient, scalable, and user-centric solutions.. With a strong focus on problem-solving and meticulous attention to detail, my goal is to transform concepts into cutting-edge products. I am committed to keeping up with the latest technologies and frameworks.
+Experienced computer science student interested in crafting efficient, scalable, and user-centric solutions. With a strong focus on problem-solving and meticulous attention to detail, my goal is to transform concepts into cutting-edge products. I am committed to keeping up with the latest technologies and frameworks.
 
 
 *   🌍  I'm based in Tucson, IL
