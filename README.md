@@ -1,10 +1,10 @@
 Hi my name is Shivom Paudel
 ==============================
 
-Experienced computer science student interested in crafting efficient, scalable, and user-centric solutions. With a strong focus on problem-solving and meticulous attention to detail, my goal is to transform concepts into cutting-edge products. I am committed to keeping up with the latest technologies and frameworks.
+I'm a Software Engineer with 3+ years of experience, passionate about algorithms, systems design, and building everything from full-stack applications to backend infrastructure. My work spans AI-driven interview simulators, scalable content ingestion pipelines, and real-time web apps.
 
+I thrive on solving complex problems, learning fast, and shipping high-impact software. Currently, I'm looking to join engineering teams where I can contribute meaningfully, collaborate with thoughtful builders, and help shape the future of how we interact with technology
 
-*   🌍  I'm based in Tucson, AZ
 *   🖥️  See my portfolio at [shivompaudel.com](https://www.shivompaudel.com/)
 *   ✉️  You can contact me at [shivompaudel@icloud.com](mailto:shivompaudel@icloud.com)
 
